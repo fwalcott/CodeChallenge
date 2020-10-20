@@ -1,4 +1,4 @@
-finish number One and Two 
+Finished number One and Two 
 
 # Data Structures and Algorithms
 
