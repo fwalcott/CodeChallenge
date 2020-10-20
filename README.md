@@ -1,3 +1,5 @@
+finish number One and Two 
+
 # Data Structures and Algorithms
 
 ## Create a copy of this repository
