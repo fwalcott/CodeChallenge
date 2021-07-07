@@ -1,3 +1,8 @@
+Did challeeges 1-4 got three working
+
+
+
+
 # Data Structures and Algorithms
 
 ## Create a copy of this repository
